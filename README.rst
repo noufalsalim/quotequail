@@ -64,7 +64,7 @@ Examples
   > Original text
 
   Text bottom
-  """))
+  """)
   Out[3]:
   {'date': '1. August 2011 23:28:15 GMT-07:00',
    'from': '"Some One" <some.one@example.com>',
